@@ -1,0 +1,1 @@
+gcc mysqlhello.c -o bin\mysqlhello -I"D:\mysql_connector\include" -L"D:\mysql_connector\lib" -llibmysql
